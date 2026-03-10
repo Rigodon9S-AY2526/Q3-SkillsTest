@@ -1,0 +1,39 @@
+body{
+background-image:url("bg.png");
+background-size:cover;
+background-image: blur(50px);
+color:#e496a9;
+font-family:Arial;
+margin: auto;
+}
+
+.container {
+background-color: rgb(255, 255, 255);
+border: 5px solid #e496a9;
+}
+
+.btn {
+background-color: #e496a9;
+color: #ffffff;
+}
+
+.btn:hover {
+background-color: #ffffff;
+color: #e496a9;
+border: 2px solid #e496a9;
+}
+
+.displayz {
+background-color: #fffefe;
+border: 5px solid #ffffff;
+}
+
+.total {
+font-size: 20px;
+}
+
+.totaldisplay {
+background-color: #fffefe;
+border: 3px solid #e496a9;
+border-radius: 3px;
+}
