@@ -8,6 +8,6 @@ function displayPayment() {
 
     // displaying output
     Number(document.getElementById("subtotal").value = subtotal.toFixed(2));
-    document.getElementById("totalPrice").innerHTML = "Total Price: $" + totalPrice.toFixed(2);
+    document.getElementById("totalPrice").innerHTML = "Total Price: ₱" + totalPrice.toFixed(2);
 
     }
